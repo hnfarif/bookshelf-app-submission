@@ -88,9 +88,7 @@ This project uses the Dicoding ESLint config for code style consistency.
 
 To lint the project:
 
-    ```
     npm run lint
-    ```
 
 ---
 
