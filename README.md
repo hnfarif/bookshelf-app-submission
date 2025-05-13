@@ -47,8 +47,6 @@ It provides a simple RESTful API to manage books with features to add, update, d
    cd bookshelf-app-submission
    ```
 
-````
-
 2. **Install dependencies**
 
    ```bash
@@ -110,4 +108,3 @@ To lint the project:
 ## 👨‍💻 Author
 
 Made for the Backend Developer learning path at Dicoding Indonesia.
-````
