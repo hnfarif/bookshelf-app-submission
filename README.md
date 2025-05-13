@@ -71,7 +71,7 @@ To check and test the endpoints, import the Bookshelf Api Test colllecton and en
 
 ---
 
-## 🧪 ⚙️ Scripts
+## ⚙️ Scripts
 
 | Command             | Description                 |
 | ------------------- | --------------------------- |
