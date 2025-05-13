@@ -19,6 +19,7 @@ It provides a simple RESTful API to manage books with features to add, update, d
 
 ## 📦 Project Structure
 
+```
 .
 ├── src/
 │ ├── books.js
@@ -33,6 +34,7 @@ It provides a simple RESTful API to manage books with features to add, update, d
 ├── package-lock.json
 ├── package.json
 └── README.md
+```
 
 ---
 
@@ -43,8 +45,9 @@ It provides a simple RESTful API to manage books with features to add, update, d
    ```bash
    git clone https://github.com/yourusername/bookshelf-app-submission.git
    cd bookshelf-app-submission
-
    ```
+
+````
 
 2. **Install dependencies**
 
@@ -87,7 +90,7 @@ This project uses the Dicoding ESLint config for code style consistency.
 
 To lint the project:
 
-    ```bash
+    ```
     npm run lint
     ```
 
@@ -107,3 +110,4 @@ To lint the project:
 ## 👨‍💻 Author
 
 Made for the Backend Developer learning path at Dicoding Indonesia.
+````
